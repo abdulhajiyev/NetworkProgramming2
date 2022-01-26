@@ -1,0 +1,15 @@
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\Tcp_Server.exe
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\Tcp_Server.deps.json
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\Tcp_Server.runtimeconfig.json
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\Tcp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\ref\Tcp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\bin\Debug\net6.0\Tcp_Server.pdb
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.csproj.AssemblyReference.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.AssemblyInfoInputs.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.AssemblyInfo.cs
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.csproj.CoreCompileInputs.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\ref\Tcp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.pdb
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Tcp_Server\obj\Debug\net6.0\Tcp_Server.genruntimeconfig.cache
