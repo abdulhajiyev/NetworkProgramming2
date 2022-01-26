@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udp_Server", "Udp_Server\Udp_Server.csproj", "{49744B26-FC33-4A67-920B-2BBF2289521F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udp_Client", "Udp_Client\Udp_Client.csproj", "{7D9EEC97-B2E5-4424-9C58-BF3C40B8C47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49744B26-FC33-4A67-920B-2BBF2289521F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49744B26-FC33-4A67-920B-2BBF2289521F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49744B26-FC33-4A67-920B-2BBF2289521F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49744B26-FC33-4A67-920B-2BBF2289521F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9EEC97-B2E5-4424-9C58-BF3C40B8C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9EEC97-B2E5-4424-9C58-BF3C40B8C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9EEC97-B2E5-4424-9C58-BF3C40B8C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9EEC97-B2E5-4424-9C58-BF3C40B8C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

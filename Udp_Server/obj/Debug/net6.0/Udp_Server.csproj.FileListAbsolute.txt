@@ -1,0 +1,15 @@
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\Udp_Server.exe
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\Udp_Server.deps.json
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\Udp_Server.runtimeconfig.json
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\Udp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\ref\Udp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\bin\Debug\net6.0\Udp_Server.pdb
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.csproj.AssemblyReference.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.AssemblyInfoInputs.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.AssemblyInfo.cs
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.csproj.CoreCompileInputs.cache
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\ref\Udp_Server.dll
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.pdb
+C:\Users\Raider\RiderProjects\NetworkProgramming2\Udp_Server\obj\Debug\net6.0\Udp_Server.genruntimeconfig.cache
